@@ -14,6 +14,7 @@ import { panier } from '../constants/panier'
   $ PACKAGE
 \*------------------------------------*/
 import PropTypes from 'prop-types'
+import AwesomeButton from 'react-awesome-button'
 
 class App extends React.Component {
   constructor(props) {
